@@ -1,6 +1,6 @@
 # DMSD-CL
 This repo holds codes of the paper: ''Debiasing Multimodal Sarcasm Detection with Contrastive Learning'' published on the conference AAAI 2024.
-We constructed an out-of-distribution dataset for testing the generalization ability of sarcasm detection models. Its format remains the same as the original dataset, but the distribution of words over labels is different vastly from the training set. You can find the details [here](https://github.com/xvolcano02/DMSD-CL/blob/main/data/clean_data/ood_all.txt).
+As mentioned in the paper, we constructed an out-of-distribution dataset for testing the generalization ability of sarcasm detection models. Its format remains the same as the original dataset, but the distribution of words over labels is different vastly from the training set. You can find the details [here](https://github.com/xvolcano02/DMSD-CL/blob/main/data/clean_data/ood_all.txt).
 ## SET UP
 ```
 * 1 You can get the ViT pretrained model we used from "https://github.com/lukemelas/PyTorch-Pretrained-ViT"
