@@ -6,7 +6,6 @@ This repo holds codes of the paper: ''Debiasing Multimodal Sarcasm Detection wit
 * 1 You can get the ViT pretrained model we used from "https://github.com/lukemelas/PyTorch-Pretrained-ViT"
 * 2 You can get the RoBERTa-base pretrained language model from "https://huggingface.co/roberta-base"
 * 3 You can get the multi-modal sarcasm detection dataset from "https://github.com/headacheboy/data-of-multimodal-sarcasm-detection"
-* 4 You can get the ood data from "https://drive.google.com/drive/folders/1k6CoxqqcU6u9C0x2GFGROWj_OKpQo-MQ?usp=drive_link"
 ```
 
 ## Run
